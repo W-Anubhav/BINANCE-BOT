@@ -1,0 +1,6 @@
+python-binance
+streamlit
+langchain
+langchain-openai
+python-dotenv
+langchain-community
